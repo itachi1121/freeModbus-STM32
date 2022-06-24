@@ -13,10 +13,10 @@ freeModbus V1.6 <br>
 
 使用串口调试助手测试结果如下 <br>
 
-![](E:\ziliao\新建文件夹\freeModbus-STM32\Doc\image-20220624085009494.png)
+![](Doc/image-20220624085009494.png)
 
 modbus调试助手 <br>
 
 
 
-![](E:\ziliao\新建文件夹\freeModbus-STM32\Doc\image-20220624090341925.png)
+![](Doc/image-20220624090341925.png)
